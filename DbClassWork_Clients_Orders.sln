@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbClassWork_Clients_Orders", "DbClassWork_Clients_Orders\DbClassWork_Clients_Orders.csproj", "{A8415C29-DB88-4A43-B509-D796AE27AD94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8415C29-DB88-4A43-B509-D796AE27AD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8415C29-DB88-4A43-B509-D796AE27AD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8415C29-DB88-4A43-B509-D796AE27AD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8415C29-DB88-4A43-B509-D796AE27AD94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD534B56-67D9-40CE-B6D4-0372CF640258}
+	EndGlobalSection
+EndGlobal
